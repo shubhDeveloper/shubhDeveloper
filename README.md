@@ -1,4 +1,5 @@
 ## Shubham Panchal 
+Hi👋, I'm Shubham Panchal Java Developer. Student of B-tech Computer Science
 
 <!--
 **shubhDeveloper/shubhDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

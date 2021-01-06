@@ -6,5 +6,9 @@
     Hi there,:wave: I'm Shubham panchal Web developer and Student of B-tech Computer Science :india:
   </samp> 
 </p>
+<p align="center">
+<img src="https://logo.letskhabar.com/img?tool=html" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap" width="50px"><img src="https://logo.letskhabar.com/img?tool=js" width="50px"><img src="https://logo.letskhabar.com/img?tool=git" width="50px"><img src="https://logo.letskhabar.com/img?tool=github" width="50px"><img src="https://logo.letskhabar.com/img?tool=ubuntu" width="50px">
+</p>
+
 <br>
 # Check my Repository 👇

@@ -9,6 +9,5 @@
 <p align="center">
 <img src="https://logo.letskhabar.com/img?tool=java" width="50px"><img src="https://logo.letskhabar.com/img?tool=spring" width="50px"><img src="https://logo.letskhabar.com/img?tool=python" width="50px"><img src="https://logo.letskhabar.com/img?tool=html" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap" width="50px"><img src="https://logo.letskhabar.com/img?tool=js" width="50px"><img src="https://logo.letskhabar.com/img?tool=git" width="50px"><img src="https://logo.letskhabar.com/img?tool=github" width="50px"><img src="https://logo.letskhabar.com/img?tool=ubuntu" width="50px">
 </p>
-
 <br>
 # Check my Repository 👇

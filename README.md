@@ -12,8 +12,7 @@
 </p>
 <hr>
 <h1 align="center">:trophy:Web Developer:trophy:</h1>
-<br>
-<img align="right" width="425" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fzalatechs.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fimplement_rapidly.gif&f=1&nofb=1">
+<img align="right" width="425" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fzalatechs.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fimplement_rapidly.gif&f=1&nofb=1"/>
 
 ## My Works: :trophy:  
 - [JavaScript](https://github.com/shubhDeveloper/NoteTaker-Js-Project)
@@ -22,6 +21,7 @@
 - [ProjectMyCart](https://github.com/shubhDeveloper/ProjectMyCart)
 - [SendMail](https://github.com/shubhDeveloper/SendMailUsingJava)
 
+<br>
 <p align="center">
 <img  src="https://media-fastly.hackerearth.com/media/hackathon/accolite-java-developer-hiring-challenge/images/ee6dcb72-9-Hire_Accolite-15%20(1).jpg">
 </p>

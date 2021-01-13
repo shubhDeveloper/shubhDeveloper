@@ -12,7 +12,7 @@
 </p>
 <hr>
 <br>
-<h1 align="center">:trophy: Web Developer :trophy:</h1>  
+<h1 align="center">:trophy:Web Developer:trophy:</h1>  
 <p align="center">
 <img  src="https://media-fastly.hackerearth.com/media/hackathon/accolite-java-developer-hiring-challenge/images/ee6dcb72-9-Hire_Accolite-15%20(1).jpg">
 </p>

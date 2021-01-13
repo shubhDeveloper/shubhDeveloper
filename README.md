@@ -10,9 +10,9 @@
 <p align="center">
 <img src="https://logo.letskhabar.com/img?tool=java" width="50px"><img src="https://logo.letskhabar.com/img?tool=spring" width="50px"><img src="https://logo.letskhabar.com/img?tool=python" width="50px"><img src="https://logo.letskhabar.com/img?tool=html" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css" width="50px"><img src="https://logo.letskhabar.com/img?tool=bootstrap" width="50px"><img src="https://logo.letskhabar.com/img?tool=js" width="50px"><img src="https://logo.letskhabar.com/img?tool=git" width="50px"><img src="https://logo.letskhabar.com/img?tool=github" width="50px"><img src="https://logo.letskhabar.com/img?tool=ubuntu" width="50px">
 </p>
-<hr><br>
+<hr>
 <h1 align="center">:trophy:Web Developer:trophy:</h1>
-
+<br>
 <img align="right" width="425" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fzalatechs.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fimplement_rapidly.gif&f=1&nofb=1">
 
 ## My Works: :trophy:  

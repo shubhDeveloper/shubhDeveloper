@@ -16,8 +16,8 @@
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/javascript.png?raw=true" width="50">
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/git.png?raw=true" width="50px">
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/bootstrap.png?raw=true" width="50px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/ubntu.png?raw=true" width="55px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/github.png?raw=true" width="50px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/ubntu.png?raw=true" width="50px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/github.png?raw=true" width="55px">
 </p>
 <hr>
 

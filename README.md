@@ -8,16 +8,16 @@
 </p>
 <br>
 <p align="center">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/java.png?raw=true" width="50px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/spring.png?raw=true" width="50px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/python.png?raw=true" width="50px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/html.png?raw=true" width="50px"> 
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/css.png?raw=true" width="50px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/javascript.png?raw=true" width="50">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/git.png?raw=true" width="50px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/bootstrap.png?raw=true" width="50px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/ubntu.png?raw=true" width="50px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/github.png?raw=true" width="55px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/java.png?raw=true" width="40px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/spring.png?raw=true" width="40px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/python.png?raw=true" width="40px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/html.png?raw=true" width="40px"> 
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/css.png?raw=true" width="40px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/javascript.png?raw=true" width="40">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/git.png?raw=true" width="40px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/bootstrap.png?raw=true" width="40px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/ubntu.png?raw=true" width="40px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/github.png?raw=true" width="45px">
 </p>
 <hr>
 
@@ -28,4 +28,4 @@
 <img  src="https://media-fastly.hackerearth.com/media/hackathon/accolite-java-developer-hiring-challenge/images/ee6dcb72-9-Hire_Accolite-15%20(1).jpg">
 </p>
 <br>
-<h3> Check my Repository 👇</h3>
+<h3> Check my Repository <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FQmGShkWAWid2hzCqHE%2Fgiphy.gif&f=1&nofb=1" width="12"></h3>

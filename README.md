@@ -28,4 +28,4 @@
 <img  src="https://media-fastly.hackerearth.com/media/hackathon/accolite-java-developer-hiring-challenge/images/ee6dcb72-9-Hire_Accolite-15%20(1).jpg">
 </p>
 <br>
-<h3> Check my Repository <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FQmGShkWAWid2hzCqHE%2Fgiphy.gif&f=1&nofb=1" width="12"></h3>
+### Check my Repository 👇

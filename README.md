@@ -18,8 +18,8 @@
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/bootstrap.png?raw=true" width="45px">
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/ubntu.png?raw=true" width="45px">
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/intellij-idea-1-logo-png-transparent.png?raw=true" width="45">
-  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/eclipse-logo-85FE4BEA34-seeklogo.com.png?raw=true" width="45">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/github.png?raw=true" width="50px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/atom-logo.png?raw=true" width="50">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/git-github-hub-icon-25.png?raw=true" width="50px">
 </p>
 <hr>
 

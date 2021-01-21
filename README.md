@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-<img  src="https://media-fastly.hackerearth.com/media/hackathon/accolite-java-developer-hiring-challenge/images/ee6dcb72-9-Hire_Accolite-15%20(1).jpg">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/Gif/developer%20(2).gif?raw=true">
 </p>
 <br>
 

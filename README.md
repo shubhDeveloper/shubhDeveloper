@@ -10,12 +10,12 @@
 <p align="center">
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/java.png?raw=true" width="45px">
   <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/c%2B%2B.png?raw=true" width="45px">
-  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/css.png?raw=true" width="45px">
-  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/html.jpg?raw=true" width="45px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/css.png?raw=true" width="47px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/html.jpg?raw=true" width="47px">
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/spring-3-logo.png?raw=true" width="53px">
  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/python.png?raw=true" width="40px">
 
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/js.png?raw=true" width="73">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/jssss.png?raw=true" width="38">
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/git.png?raw=true" width="45px">
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/github%20blue.png?raw=true" width="45px">
 <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/ubuntu-icon.png?raw=true" width="42px">

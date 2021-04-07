@@ -8,18 +8,18 @@
 </p>
 <br>
 <p align="center">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/java.png?raw=true" width="45px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/spring.png?raw=true" width="45px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/python.png?raw=true" width="45px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/html.png?raw=true" width="45px"> 
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/css.png?raw=true" width="45px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/javascript.png?raw=true" width="45">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/git.png?raw=true" width="45px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/bootstrap.png?raw=true" width="45px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/main_icon/ubntu.png?raw=true" width="45px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/intellij-idea-1-logo-png-transparent.png?raw=true" width="45">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/atom-logo.png?raw=true" width="50">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/git-github-hub-icon-25.png?raw=true" width="50px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/java.png?raw=true" width="45px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/c%2B%2B.png?raw=true" width="45px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/css.png?raw=true" width="45px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/html.jpg?raw=true" width="45px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/spring-3-logo.png?raw=true" width="53px">
+ <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/python.png?raw=true" width="40px">
+
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/js.png?raw=true" width="73">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/git.png?raw=true" width="45px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/github%20blue.png?raw=true" width="45px">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/ubuntu-icon.png?raw=true" width="42px">
+
 </p>
 <hr>
 
@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/Gif/developer%20(2).gif?raw=true">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/imges/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner%20(1).png?raw=true">
 </p>
 <br>
 

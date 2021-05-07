@@ -1,6 +1,6 @@
 # Shubham Panchal
 <p align="center">
-  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/gif/rs-slider4-img12.gif?raw=true?raw=true" width="150px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/gif/AS003372_03.gif?raw=true?raw=true" width="125px">
  <br>
  <samp>
     Hi there,<img width="18" src="https://github.com/shubhDeveloper/Hibernate_Project_NoteTaker/blob/master/src/main/webapp/js/Hi.gif?raw=true"> I'm Shubham panchal Web developer and Student of B-tech Computer Science :india:
@@ -8,18 +8,16 @@
 </p>
 <br>
 <p align="center">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/java.png?raw=true" width="45px">
-  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/c%2B%2B.png?raw=true" width="45px">
-  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/css.png?raw=true" width="47px">
-  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/html.jpg?raw=true" width="47px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/spring-3-logo.png?raw=true" width="53px">
- <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/python.png?raw=true" width="40px">
-
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/jssss.png?raw=true" width="38">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/git.png?raw=true" width="45px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/github%20blue.png?raw=true" width="45px">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/icon/ubuntu-icon.png?raw=true" width="42px">
-
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/java.svg?raw=true" width="50px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/img%20(1).svg?raw=true" width="50px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/css.svg?raw=true" width="50px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/html.svg?raw=true" width="50">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/js.svg" width="50px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/boostrap.svg?raw=true" width="50px">
+  <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/python.svg?raw=true" width="50px">
+ <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/git.svg?raw=true" width="50px">
+ <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/github.svg?raw=true" width="50px">
+ <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/ubuntu.svg?raw=true" width="50px">
 </p>
 <hr>
 

@@ -21,11 +21,11 @@
 </p>
 <hr>
 
-<h1 align="center">:trophy:Web Developer:trophy:</h1>
+<h1 align="center">:trophy:Oracle Database Developer:trophy:</h1>
 <br>
 
 <p align="center">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/imges/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner%20(1).png?raw=true">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/imges/Oracle%20Sql,plsql%20Developer%20(1).png?raw=true">
 </p>
 <br>
 

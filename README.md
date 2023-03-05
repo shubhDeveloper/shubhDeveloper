@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/imges/Oracle%20Sql,plsql%20Developer%20(1).png?raw=true">
+<img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/gif/Black%20Technology%20LinkedIn%20Banner.gif?raw=true">
 </p>
 <br>
 
